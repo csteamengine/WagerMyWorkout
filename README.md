@@ -8,5 +8,7 @@ There are tons of workout websites and apps out there, but if there were a websi
 
 3. Preselected workout plans, including cardio, strength, agility, flexibility, and endurance. From beginner level to expert level.
 
+4. Preselected Training plans for Runs, Triathlons, Swims, and Biking with customizable distances and time goals. Algorithm to decide best training plan for each event with the given parameters.
+
 # todo
 Will need to find and test out all the other workout apps to see what I like/hate about each one, as well as what each one is missing. Then integrate each of those things into this app to make the perfect app.
